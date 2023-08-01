@@ -1,8 +1,8 @@
 /**
  * @name DimaFerrari
  * @website 
- * @source 
- * @updateUrl 
+ * @source https://github.com/MakerScript/DiscordUtilites/blob/main/NitroPerks.plugin.js
+ * @updateUrl https://github.com/MakerScript/DiscordUtilites/blob/main/NitroPerks.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
