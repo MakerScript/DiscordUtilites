@@ -32,19 +32,14 @@ module.exports = (() => {
         "info": {
             "name": "NitroPerks",
             "authors": [{
-                "name": "lemons",
-                "discord_id": "407348579376693260",
-                "github_username": "respecting"
-            },
-			{
                 "name": "Shimoro",
-                "discord_id": "427406422733619200",
-                "github_username": "Shimoro-Rune"
+                "discord_id": "949584082478702613",
+                "github_username": "MakerScript"
             }],
             "version": "1.3.7",
             "description": "Set clientsided animated avatar and profile banner, share your screen at 60fps 1080P and use cross-server and animated emojis everywhere! You still won't be able to upload 100MB files though :<",
-            "github": "https://github.com/Shimoro-Rune/NitroPerks",
-            "github_raw": "https://raw.githubusercontent.com/Shimoro-Rune/NitroPerks/main/NitroPerks.plugin.js"
+            "github": "https://github.com/Shimoro-Rune/NitroPerks", -- Dev 2 
+            "github_raw": "https://raw.githubusercontent.com/Shimoro-Rune/NitroPerks/main/NitroPerks.plugin.js" -- Library
         },
 		"changelog": [
 			{
